@@ -1,4 +1,4 @@
-```markdown
+
 # 🎵 MusicBoxAPI
 
 Une **API RESTful moderne** développée avec Laravel pour la gestion complète d'une bibliothèque musicale. Permet de gérer des artistes, albums et chansons avec une documentation interactive Swagger.
