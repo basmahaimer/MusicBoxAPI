@@ -244,7 +244,7 @@ MusicBoxAPI/
 ## 👩‍💻 Auteur
 
 **Basma Haimer**  
-- GitHub : [TON_USERNAME](https://github.com/basmahaimer)
+- GitHub : [basmahaimer](https://github.com/basmahaimer)
 - Projet : [MusicBoxAPI](https://github.com/basmahaimer/MusicBoxAPI)
 
 ---
